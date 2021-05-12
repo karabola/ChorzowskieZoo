@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Mentoring">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Mentoring" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Mentoring/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../Mentoring/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
