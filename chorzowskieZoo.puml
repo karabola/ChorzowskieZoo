@@ -1,0 +1,20 @@
+@startuml
+
+AnimalsName <- DateOfBirth
+AnimalsName <-PlaceOfBirth
+
+class AnimalsName {
+String name;
+}
+class DateOfBirth{
+private final Date date;
+}
+
+enum PlaceOfBirth {
+    GDANSKIEZOO,
+    WARSZAWSKIEZOO,
+    CHORZOWSKIEZOO,
+    COLCHESTERZOO,
+}
+
+@enduml
